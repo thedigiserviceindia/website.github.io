@@ -32,7 +32,7 @@ p{font-size: 20;font-family: arial black;background: black;color: white;align-co
 .go{font-size: 20;font-family: arial black;background:lightsalmon;color: white;align-content: center;align-bottom:0.1pt ;}
 </style>
 	
-	<body
+	<body>
 <ul><p class="note">
 <center><span style="font-size:19;color:red;"><b><u>
 NO WORK LOAD!!!!NO TARGET!!!!
@@ -40,10 +40,22 @@ NO WORK LOAD!!!!NO TARGET!!!!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <center>"COMPANY WILL PROVIDE YOU A PDF's FILE YOU HAVE TO</center> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JUST SEE AND TYPE AS IT IS MS-WORD"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JUST SEE AND TYPE AS IT IS MS-WORD"
 <br>
 <br>
 <br>
 	
 	 </body>
 	</html>
+	
+	
+
+	
+	
+	
+
+![pexels-fauxels-3184430](https://user-images.githubusercontent.com/106242396/171990665-78e88646-7df1-478f-80af-ee2d5cc724b2.jpg)
+![images](https://user-images.githubusercontent.com/106242396/171991053-c309f33c-2ef0-4a2e-9683-46eb8c0ebe1d.png)
+	![download](https://user-images.githubusercontent.com/106242396/171991046-d9da3763-8247-416d-ba91-4b99d7ba9ea8.png)
+![pexels-j-kelly-brito-322335](https://user-images.githubusercontent.com/106242396/171991023-b3a7e567-ada0-454c-83e1-e487176307bb.jpg)
+![pexels-photo-3184287](https://user-images.githubusercontent.com/106242396/171990618-b1c9c2cf-eca2-4ba6-8c11-8b2e2178b495.jpeg)
