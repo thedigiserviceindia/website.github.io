@@ -5,7 +5,7 @@
  
   
   
-<body>webserver <br><span style="color:lemon;">he is doctor strange</span></body>
+  <body>webserver <br><font color="blue">he is doctor strange</font></body>
     
     
   
